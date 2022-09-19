@@ -1,5 +1,9 @@
 # Raspe um Diário Oficial e contribua com o Querido Diário 🕷️📚
 
+# Autor
+Heliio Minoru Shibatta
+
+
 O [Querido Diário](https://queridodiario.ok.org.br/) é um projeto de código aberto da [Open Knowledge Brasil](https://ok.org.br/) que utiliza Python e outras tecnologias para libertar informações do Diário Oficial (DO) das administrações públicas no Brasil. A iniciativa mapeia, baixa e converte todas as páginas das publicações para um formato mais acessível, a fim de facilitar a análise de dados.
 
 Neste tutorial, mostraremos orientações gerais para construir um raspador e contribuir com o projeto Querido Diário.
